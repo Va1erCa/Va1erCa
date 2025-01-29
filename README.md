@@ -40,5 +40,7 @@ My contacts for communication:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="48"/>
-<img src="https://yastatic.net/naydex/yandex-search/nhZ7GK140/358befEGSDTY/6JbgH1FNSWqIAfl1-VtldDu0_H1FX5eXN9K6ccKQ9ThsQKIOwm0PYk79Y5Vi6nnVyZqxE8MkxELbXhNwsz0wrbu2YH1VnYnr7xVI5urpJuL4pl4bJ11UMneSu3ECVYfoD-NA" height="48">
+<img src="https://yastatic.net/naydex/yandex-search/nhZ7GK140/358befEGSDTY/6JbgH1FNSWqIAfl1-VtldDu0_H1FX5eXN9K6ccKQ9ThsQKIOwm0PYk79Y5Vi6nnVyZqxE8MkxELbXhNwsz0wrbu2YH1VnYnr7xVI5urpJuL4pl4bJ11UMneSu3ECVYfoD-NA" height="48"/>
+<img src="redash-logo.png" height="48"/>
+<img src="metabase-logo.webp" height="48"/>
 </div>
