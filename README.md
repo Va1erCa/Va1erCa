@@ -22,6 +22,7 @@ Here are examples of my projects:
 - [RFM analysis of pharmacy chain customers (in Russian) (SQL & Metabase)](/rfm)
 - [Collecting telegram channel statistics (Python & PostgreSQL)](https://github.com/BogdanSubm/telegram_analyst2)
 - [Kaggle competition - Leopard Challenge Регрессия](https://www.kaggle.com/competitions/leopard-challenge-regression/leaderboard)
+- [Pandas bussiness case - pharmacy chain](https://github.com/Va1erCa/Pandas_bussiness_case)
 - other...
 
 My contacts for communication:
