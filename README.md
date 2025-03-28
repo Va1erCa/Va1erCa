@@ -18,12 +18,18 @@ Here are some ideas to get you started:
 
 I love life, python, data, numbers, beautiful dashboards and people.
 
-Here are examples of my projects:
+## Here are examples of my projects:
+### Analytics
 - [RFM analysis of pharmacy chain customers (in Russian) (SQL & Metabase)](/rfm)
-- [Collecting telegram channel statistics (Python & PostgreSQL)](https://github.com/BogdanSubm/telegram_analyst2)
+### Python cases
+- [Collecting telegram channel statistics (Python & Pyrogram & PostgreSQL)](https://github.com/BogdanSubm/telegram_analyst2)
+- [Automation_easy_case - simulation of pipeline data processing of a household goods retail network (Python & Pandas & PostgreSQL)](https://github.com/Va1erCa/Automation_easy_case)
+- [Pandas business case - pharmacy chain (Python & Pandas & Excel)](https://github.com/Va1erCa/Pandas_business_case)
+- [ETL-pipeline for edtech platform (Python & GoogleSheets & PostgreSQL)](https://github.com/Va1erCa/Python-Simulative-project)
+### ML cases
 - [Kaggle competition - Leopard Challenge Регрессия](https://www.kaggle.com/competitions/leopard-challenge-regression/leaderboard)
-- [Pandas bussiness case - pharmacy chain](https://github.com/Va1erCa/Pandas_bussiness_case)
-- other...
+
+### other...
 
 My contacts for communication:
 - Telegram: @Va1errCa 
